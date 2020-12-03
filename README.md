@@ -4,6 +4,11 @@
 
 <h2 align="center">Hello there 👋 My name is Aaron Sisler</h2>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronsisler&layout=compact&theme=radical)
+<br />
+![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronsisler&show_icons=true&theme=radical&hide=css)
+
+
 <!--
 **aaronsisler/aaronsisler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
