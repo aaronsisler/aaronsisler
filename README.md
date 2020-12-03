@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 📫 How to reach me:
+<p align='center'>
 <a href="https://www.linkedin.com/in/aaron-sisler/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-
+</p>
 <!--
 **aaronsisler/aaronsisler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
